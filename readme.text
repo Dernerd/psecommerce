@@ -1,0 +1,67 @@
+=== PSeCommerce ===
+
+Contributors: DerN3rd
+Tags: ecommerce, onlineshop, multisite, 
+Requires at least: 3.7
+Tested up to: 5.6
+Kurzbeschreibung
+
+== Beschreibung ==
+
+PSeCommerce basiert auf dem Quellcode von MarketPress. MarketPress war der Vorgänger von WooCommerce und wurde von WPMUDEV 2019
+entgültig eingestellt und erhält keine Updates mehr. Da wir immer schon lieber mit MarketPress gearbeitet haben, da es sehr
+Anpassungsfähig ist und einem alle Basics für das eCommerce bereitstellt ohne dabei überladen zu sein, mit irgendwelchen PRO Features zu
+nerven, etv. PSeCommerce ist ebenso OpenSource und absolut Kostenfrei und jeder darf sich an der weiteren Entwicklung beteiligen oder 
+mithilfe der mächtigen API eigene Erweiterungen und Plugins zur Verfügung stellen.
+
+
+[POWERED BY PSOURCE](https://n3rds.work/shop/artikel/category/piestingtal-source-plugins/)
+Online Geld verdienen macht dieses mächtige Leichtgewicht von eCommerce Plugin im Nu Kinderleicht.
+
+
+
+== Einrichtung ==
+= Installation: =
+1.  Downloade die Plugindatei
+2.  Gehe in Deinem WordPress Dashboard auf Plugins installieren
+3.  Lade nun das Zip per Installationsassistenten hoch
+4.  Aktiviere es nun und besuche die Einstellungen des Plugins.
+= Mehr über das Plugin und Anleitungen =
+* Du findest unter der Projektseite des Plugins <a href=’https://n3rds.work/piestingtal-source-project/psecommerce-plugin/’>weitere Informationen, Hilfsquellen und Best Practics &raquo;</a>
+== FAQ ==
+= Muss ich eine Mitgliedschaft bei WMS N@W haben? =
+Nein, Du kannst alle unsere Plugins frei runterladen oder direkt kaufen und anschließend mit ihnen machen was Du möchtest.
+
+= Wo erhalte ich Hilfe und Support? =
+
+Wir bieten Hilfe und Unterstützung, sowie die Möglichkeit selbst mitzuwirken in unserem <a href=’https://n3rds.work/gruppen/psource-communityhub/‘>PSOURCE COMMUNITYHUB</a>.
+== ChangeLog ==
+
+= 3.4.6 = DerN3rd =
+
+* Wir haben an der Performance-Schraube gedreht
+* Weiteren veralteten Code überarbeitet
+* Verbesserte Übersetzungen und Texte
+
+= 3.4.1 = DerN3rd =
+* Fixed: Angebotspreise akzeptieren nun das eingestellte Start/Enddatum
+
+= 3.4.0 = DerN3rd =
+* Update: jQuery für WordPress 5.5
+
+= 3.3.9 = DerN3rd =
+* Update: jQuery Bibliotheken
+
+= 3.3.8 = DerN3rd =
+* Neu: In der Erweiterung PDF Rechnung können nun Rechtliche Hinweise und Kontaktdaten angegeben werden
+* Fixed: Probleme bei der Darstellung der PDF Rechnungen
+* Übersetzungen: Weiter verbessert, Übersetzungsstand 80%
+* Optimierungen: Code weiter bereinigt
+* Neu: Erstelle eigene CSS Files um Deinem Shop ein einzigartiges Aussehen zu verpassen
+* Neu: Erweiterung eingefügt um Produkt-Kommentare zu erlauben
+
+= 3.3.5 = DerN3rd =
+* Fixed: Übersetzungen
+
+= 1.0.0 =
+* Initial release
