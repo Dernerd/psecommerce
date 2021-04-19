@@ -3,7 +3,7 @@
  * Plugin Name: PSeCommerce
  * Plugin URI:  https://n3rds.work/?piestingtal_source=psecommerce-shopsystem
  * Description: Das einfachste und dennoch mächtigste WordPress-E-Commerce-Plugin - Ob kleiner Onlineshop, Digitales Schaufenster, funktioniert auch perfekt mit BuddyPress und Multisite, um einen sozialen Marktplatz zu schaffen, auf dem Du einen Prozentsatz nehmen kannst! Aktiviere das Plugin, passe Deine Einstellungen an und füge Deinem Shop einige Produkte hinzu.
- * Version:     3.4.6
+ * Version:     3.4.7
  * Author:      DerN3rd (WMS N3rds@Work)
  * Author URI:  https://n3rds.work
  * Text Domain: mp
@@ -33,7 +33,7 @@ $MyUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 	__FILE__, 
 	'psecommerce' 
 );
-define( 'MP_VERSION', '3.4.6' );
+define( 'MP_VERSION', '3.4.7' );
 
 
 /**

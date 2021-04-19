@@ -37,6 +37,12 @@ Nein, Du kannst alle unsere Plugins frei runterladen oder direkt kaufen und ansc
 Wir bieten Hilfe und Unterstützung, sowie die Möglichkeit selbst mitzuwirken in unserem <a href=’https://n3rds.work/gruppen/psource-communityhub/‘>PSOURCE COMMUNITYHUB</a>.
 == ChangeLog ==
 
+= 3.4.7 = DerN3rd =
+
+* PSeCommerce-Frontend ist nun ein eigenständiges Plugin
+* Erweiterung für Statisik eingefügt
+* Weitere Anpassungen auf PhP7.5
+
 = 3.4.6 = DerN3rd =
 
 * Wir haben an der Performance-Schraube gedreht
