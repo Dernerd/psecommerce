@@ -581,7 +581,7 @@ if ( ! function_exists( '_mp3_global_products_html' ) ) {
 
 				$html .= '
 				<div class="mp_product_item' . ( ( 'grid' == $view ) ? ' mp_product_item-col-' . $per_row : '' ) . '">
-					<div itemscope itemtype="http://schema.org/Product" class="mp_product' . ( ( strlen( $img ) > 0 ) ? ' mp_product-has-image' . $align_class : '' ) . ' ' . implode( $class, ' ' ) . '">
+					<div itemscope itemtype="http://schema.org/Product" class="mp_product' . ( ( strlen( $img ) > 0 ) ? ' mp_product-has-image' . $align_class : '' ) . ' ' . implode( ' ', $class ) . '">
 						' . $img . '
 						<div class="mp_product_details">
 
@@ -832,7 +832,7 @@ if ( ! function_exists( '_mp_global_tags_cloud' ) ) {
 				$html .= '<a href="' . mp_global_taxonomy_url( $row->slug, $taxonomy ) . '" class="tag-link tag-link-' . $row->term_id . '" title="">' . $row->name . '</a> ';
 			}
 		} else {
-			$html .= __( 'No Tags', 'mp' );
+			$html .= __( 'Keine Tags', 'mp' );
 		}
 		$html .= '</div>';
 
